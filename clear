@@ -1,0 +1,23 @@
+[33mcommit bc5c4af896571ce67c7defb3f810e712d562ee77[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sachinwagh123 <sachin123wagh@gmail.com>
+Date:   Tue May 2 22:39:51 2023 +0530
+
+    added code
+
+[1mdiff --git a/Hello_world.java b/Hello_world.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0f89d2f[m
+[1m--- /dev/null[m
+[1m+++ b/Hello_world.java[m
+[36m@@ -0,0 +1,10 @@[m
+[32m+[m
+[32m+[m[32mclass pakage {[m
+[32m+[m
+[32m+[m[32mpublic static void main (String [] args){[m
+[32m+[m
+[32m+[m[32mString str = "Hellow world";[m
+[32m+[m
+[32m+[m[32mSystem.out.println(str);[m
+[32m+[m[32m}[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
